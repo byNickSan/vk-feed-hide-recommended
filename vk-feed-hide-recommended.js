@@ -6,6 +6,7 @@
 // @author       byNickSan
 // @match        https://vk.com/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
